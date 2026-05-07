@@ -37,6 +37,13 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
+    },
+    "HAXX": {
+      "hwid": "RESET",
+      "expireDate": "2026-05-09",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
