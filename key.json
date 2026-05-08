@@ -5,7 +5,7 @@
     "getKeyUrl": "https://t.me/HAXXkillCHEATS",
     "imageUrl": "https://raw.githubusercontent.com/haxxkill/HAXX/refs/heads/main/ic_launcher.png",
     "loginBtnText": "AUTHENTICATE",
-    "maintenanceMode": false,
+    "maintenanceMode": true,
     "maintenanceMsg": "HAXX Kill ONLINE server is temporarily down for maintenance.",
     "statusBadge": "SECURE",
     "tags": [
@@ -15,7 +15,7 @@
     ],
     "title": "HAXX Kill ONLINE",
     "updateMsg": "New HAXX Kill version available! Please update.",
-    "updateRequired": false,
+    "updateRequired": true,
     "updateUrl": "https://t.me/HAXXKillCHEATS"
   },
   "BannedHWIDs": {
