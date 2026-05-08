@@ -15,7 +15,7 @@
     ],
     "title": "HAXX Kill ONLINE",
     "updateMsg": "New HAXX Kill version available! Please update.",
-    "updateRequired": true,
+    "updateRequired": false,
     "updateUrl": "https://t.me/HAXXKillCHEATS"
   },
   "BannedHWIDs": {
