@@ -41,7 +41,7 @@
     "HAXX": {
       "hwid": "RESET",
       "expireDate": "2026-05-09",
-      "isBanned": true,
+      "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
     }
