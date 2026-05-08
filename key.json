@@ -37,7 +37,7 @@
     "HAXX": {
       "hwid": "DB9A0C8E601BADEF",
       "expireDate": "2026-05-09",
-      "isBanned": false,
+      "isBanned": true,
       "banReason": "",
       "userRank": "Supreme User"
     }
