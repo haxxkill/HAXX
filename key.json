@@ -40,6 +40,13 @@
       "isBanned": false,
       "banReason": "User ccc",
       "userRank": "Supreme User"
+    },
+    "Leon": {
+      "hwid": "RESET",
+      "expireDate": "2026-05-14",
+      "isBanned": false,
+      "banReason": "Hello Leon x zaid",
+      "userRank": "Supreme User"
     }
   }
 }
