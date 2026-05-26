@@ -47,6 +47,13 @@
       "isBanned": false,
       "banReason": "Hello Zaid baby",
       "userRank": "Supreme User"
+    },
+    "Ss": {
+      "hwid": "RESET",
+      "expireDate": "Life",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
